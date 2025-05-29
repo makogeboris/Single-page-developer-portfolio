@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/mkboris/Single-page-developer-portfolio)
 - [Live Site](https://single-page-developer-portfolio-rosy.vercel.app/)
 
 ### Built with
@@ -49,4 +48,5 @@ So far, when building forms, I haven't typically received and stored the submitt
 
 ## Author
 
-- Frontend Mentor - [@mkboris](https://www.frontendmentor.io/profile/mkboris)
+- Frontend Mentor - [makogeboris](https://www.frontendmentor.io/profile/makogeboris)
+- Twitter - [makogeboris](https://x.com/makogeboris)
